@@ -1,4 +1,5 @@
 # Recodex - Submit Any Binary as Python
+# !!! This project is no longer actively maintained. If you want support for more languages with more features then you should look into [rustcodex](https://github.com/rkuklik/rustcodex).
 
 This Python script converts a compiled binary and it's source code into a single Python script for submission to Recodex.
 
